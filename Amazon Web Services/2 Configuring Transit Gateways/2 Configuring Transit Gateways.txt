@@ -1,0 +1,6 @@
+# Amazon Web Services
+
+# Advanced Architecting on AWS
+
+
+# 2 Configuring Transit Gateways
